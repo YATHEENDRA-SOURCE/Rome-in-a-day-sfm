@@ -1,0 +1,7 @@
+65 photos (long side at most 640 px); focal length from EXIF for 0, guessed (0.8 x the long side) for the others
+settings: top_k 10, rounds 2, min_inliers 20, long_side 640, focal 0.8, dense_images 64
+2,071 pairs checked with your match_descriptors, 1,579 of them real (29 s)
+largest group: 65 of 65 photos
+placed 65 of 65 photos: 4,988 points, rms 0.95 px
+dense cloud: 280,770 points, sparse: 4,988; 152 s in all
+wrote ab13_cloud: dense.ply, sparse.ply (MeshLab, CloudCompare, Blender), view.html, cameras.csv, summary.txt
